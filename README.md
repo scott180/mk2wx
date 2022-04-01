@@ -7,7 +7,7 @@
 
 - 一键复制排版至微信公众号
 
-- 地址 &ensp;[mk2wx]( https://md.xushufa.cn/ ) &ensp; [github]( https://github.com/scott180/mk2wx )
+- 地址 &ensp;[md]( https://tool.xushufa.cn/md ) &ensp; [github]( https://github.com/scott180/xushufa-tool )
 
 
 ---
