@@ -4,7 +4,7 @@
     <title>文字转二维码</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="文字转二维码">
-
+    <link rel="shortcut icon" href="../index/favicon.ico">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.css">
     <link rel="stylesheet" href="codemirror.css">
     <link rel="stylesheet" href="demo.css">
@@ -27,20 +27,20 @@
       <div class="src">
         <h4 class="subheader"><a href="#" id="permalink" onclick='generateQRcode()'>生成</a> 
 		
-		原文:</br>
+		原文</br>
         <textarea id="urlVal" rows="5" cols="30">https://tool.xushufa.cn</textarea>
 		</br>
         </br>
 		
-		说明:</br>
-        <textarea id="intorduceVal" cols="30">工具网站</textarea>
+		说明</br>
+        <textarea id="intorduceVal" rows="3" cols="30">工具网站</textarea>
       </div>
 	  
       <div class="dst">
         <!-- <h4 class="subheader">结果:</h4> -->
-        <div class="warp">
+        <h4 class="subheader">
 			<div id="QRcode"></div>
-			<a class="QR-download" href="#" download>下载</a>
+			<a class="QR-download" style="margin: 16px" href="#" download>下载</a>
 		</div>
       </div>
     </div>
@@ -162,5 +162,5 @@
 
 </script>
 
-  </body>
+</body>
 </html>
