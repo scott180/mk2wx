@@ -1,7 +1,0 @@
-site_name: 工具网站
-copyright: <footer> Copyright © 2022 · xushufa.cn · 无为徐生 <br/> <a href="http://beian.miit.gov.cn/" target="_blank">浙ICP备2022008289号-1</a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33011002016354" target="_blank"><img src="https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/other/ba.png" width="20"> 浙公网安备 33011002016354号</a> </footer>
-
-theme:
-  name: mkdocs
-  
-    
