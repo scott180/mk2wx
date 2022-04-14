@@ -16,5 +16,5 @@
 | --     | markdown在线工具             |  --              |
 | 8      | [editormd]( https://tool.xushufa.cn/markdown-editormd )   | 开源的、可嵌入的 Markdown 在线编辑器  |
 | 9      | [markthing]( https://tool.xushufa.cn/markdown-markthing ) | 一个MarkDown编辑器                    |
-| 10     | [mpeditor]( https://tool.xushufa.cn/markdown-mpeditor )   | markdown-mpeditor                     |
+| 10     | [mpeditor]( https://tool.xushufa.cn/markdown-mpeditor )   | 专注于微信公众号的编辑阅读器          |
 
